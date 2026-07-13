@@ -48,6 +48,8 @@ Full-Stack Web Developer passionate about building modern web applications, AI-p
 
 ## 📫 Contact
 
-**Email:** whewhetukelly70@gmail.com
+- 📧 Email: whewhetukelly70@gmail.com
+- 💼 Upwork: https://www.upwork.com/freelancers/~01cc93a11f52fbc3c7
+- 🌐 GitHub: https://github.com/whewhetu-kelly
 
 > *Building secure, intelligent, and high-performing web solutions that help businesses and individuals grow online.*
