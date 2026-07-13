@@ -1,33 +1,53 @@
-# Hi, I'm Whewhetu kelly
+# 👋 Hi, I'm Whewhetu Kelly
 
-Software Developer focused on building scalable web applications and intelligent systems.
+Full-Stack Web Developer passionate about building modern web applications, AI-powered solutions, and cybersecurity platforms. I also help businesses establish a strong online presence by designing fast, responsive, and professional websites that showcase their brand and connect them with more customers.
 
-## Technologies
+---
+
+## 🚀 Tech Stack
 
 - PHP
-- Laravel
+- HTML5
+- CSS3
 - JavaScript
+- Bootstrap 5
+- React
 - MySQL
 - Python
+- Java
+- C++
 - Git
 - GitHub
-- React
-- C++
-- Java
-- HTML
-- CSS
-- JS
-- and more
 
-## Current Focus
+---
 
-- Full Stack Development
-- AI Applications
-- System Design
-- Open Source Contributions
-- Real World Projects
-- Academic Projects
+## 💼 Featured Projects
 
-## Contact
+- 🛡️ SecureScan Intelligence Platform
+- 🤖 AI Resume Analyzer
+- 🍽️ Campus Cafeteria Online Food Pre-Ordering System
+- 🎟️ Event Booking System
+- 📚 Journal Management System
+- 📦 Inventory & Sales Management System
+- 💳 Credit Card Fraud Detection System
+- 🗓️ Examination Timetable Management System
+- 🧭 Smart Campus Navigation System
 
-Email: whewhetukelly70@gmail.com
+---
+
+## 🎯 What I Do
+
+- Full-Stack Web Development
+- Business Website Development
+- Custom PHP & MySQL Applications
+- AI-Powered Web Solutions
+- Cybersecurity Applications
+- Responsive UI Development
+
+---
+
+## 📫 Contact
+
+**Email:** whewhetukelly70@gmail.com
+
+> *Building secure, intelligent, and high-performing web solutions that help businesses and individuals grow online.*
